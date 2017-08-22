@@ -1,8 +1,8 @@
 python-convert-ffmped
 =================
 
-### Depois deve jogar seus arquivos na pasta entrada e os resultados sairam na pasta saida:
+### Coloque seus arquivos na pasta entrada e agora terminar o scripts os arquivos convertidos serão enviados para pasta de saida:
 
 Comando para executar script:
 
-    python converte_video.py
+    python convert.py
